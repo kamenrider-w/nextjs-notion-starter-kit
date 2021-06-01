@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'c6e4e7b154574a4db0367d2b6ff992f5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'WHO  knows',
+  domain: 'https://www.notion.so/Get-Started-on-Mobile-c6e4e7b154574a4db0367d2b6ff992f5',
+  author: 'by wangwang',
 
   // open graph metadata (optional)
   description: 'Example site description',
